@@ -1,0 +1,13 @@
+
+pros,cons,when to use???.
+==============
+OBSERVER DESIGN PATTERN:
+//geeks for geeks
+components of observer design pattern:
+Subject:
+
+Observer:
+
+ConcreteSubject:
+
+ConcreteObserver:
